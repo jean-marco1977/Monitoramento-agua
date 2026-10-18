@@ -85,7 +85,7 @@ pip install colorama
 
 1. **Clone o repositório** (or baixe o arquivo `App.py`):
    ```bash
-   git clone https://github.com/jean-marco1977/Consumo-Energia
+   git clone https://github.com/jean-marco1977/Monitoramento-agua
    ```
 2. **Navegue até a pasta** do projeto:
    ```bash
@@ -93,6 +93,6 @@ pip install colorama
    ```
 3. **Execute o script** pelo terminal ou prompt de comando:
    ```bash
-   python App.py
+   python Jean_Ag12_DS_I.py
    ```
 4. **Interaja com a simulação** visualizando as mudanças de estado e alertas coloridos impressos em tempo real a cada segundo.
