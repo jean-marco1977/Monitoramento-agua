@@ -83,7 +83,7 @@ pip install colorama
 
 ### Passo a Passo
 
-1. **Clone o repositório** (or baixe o arquivo `App.py`):
+1. **Clone o repositório** (or baixe o arquivo `Jean_Ag12_DS_I.py`):
    ```bash
    git clone https://github.com/jean-marco1977/Monitoramento-agua
    ```
